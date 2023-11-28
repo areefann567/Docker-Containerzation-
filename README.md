@@ -1,10 +1,11 @@
-# Docker-Containerzation-
+# Docker-Containerzation
  Containerized My Django App with Docker! 🐍🐳
  
 
 Hey everyone! 👋
 
 I'm thrilled to share that I've successfully containerized my Django application using Docker! 🚢🐍
+
 ![image](https://github.com/areefann567/Docker-Containerzation-/assets/120305645/4a3970ab-6ef4-48cc-b35a-bfb75cc2951c)
 
 
