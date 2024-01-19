@@ -33,6 +33,6 @@ Scalability: Easily scale the application in diverse environments.
 
 Portability: Run the Django app seamlessly on any machine with Docker installed.
 
-Next Steps: Planning to explore orchestrators like Kubernetes for enhanced scalability and deployment management. 🚀
+Next Steps: Planning to explore orchestrators like Kubernetes for enhanced scalability and deployment management. 
 
 Excited about this milestone and the opportunities it opens up! 🌟
